@@ -17,7 +17,7 @@ Trabalhar com ambientes virtuais em Python, garantindo um desenvolvimento mais o
 - [Python](https://vuejs.org/)
 - [FastAPI](https://fastapi.tiangolo.com/tutorial/)
 - [Uvicorn](https://www.uvicorn.org/)
-- 
+
 ## ⚙️ Instalação
 
 Para que este rode em sua máquina, siga os passos abaixo:
