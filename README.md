@@ -33,7 +33,7 @@ Rode a aplicação no modo de desenvolvimento.
 $ .\venv\Scripts\activate
 $ uvicorn main:app --reload
 
-Abra http://127.0.0.1:8000 no seu navegador para visualizar o projeto
+# Abra http://127.0.0.1:8000 no seu navegador para visualizar o projeto
 ```
 
 ## Licença
